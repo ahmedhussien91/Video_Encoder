@@ -1,0 +1,13 @@
+﻿  Bitmap.cpp
+  Decoder.cpp
+  Ecoder.cpp
+F:\OneDriveNile\OneDrive - My account\OneDrive\Nile Universty\Video-PROCESSING\Encoder_Decoder_project\ImageColorConversion\Ecoder.cpp(74,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\OneDriveNile\OneDrive - My account\OneDrive\Nile Universty\Video-PROCESSING\Encoder_Decoder_project\ImageColorConversion\Ecoder.cpp(76,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\OneDriveNile\OneDrive - My account\OneDrive\Nile Universty\Video-PROCESSING\Encoder_Decoder_project\ImageColorConversion\Ecoder.cpp(78,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\OneDriveNile\OneDrive - My account\OneDrive\Nile Universty\Video-PROCESSING\Encoder_Decoder_project\ImageColorConversion\Ecoder.cpp(80,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Image.cpp
+  ImageColorConversion.cpp
+F:\OneDriveNile\OneDrive - My account\OneDrive\Nile Universty\Video-PROCESSING\Encoder_Decoder_project\ImageColorConversion\Ecoder.cpp(88,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+F:\OneDriveNile\OneDrive - My account\OneDrive\Nile Universty\Video-PROCESSING\Encoder_Decoder_project\ImageColorConversion\ImageColorConversion.cpp(55,23): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  ImageColorConversion.vcxproj -> F:\OneDriveNile\OneDrive - My account\OneDrive\Nile Universty\Video-PROCESSING\Encoder_Decoder_project\ImageColorConversion\Debug\ImageColorConversion.exe
